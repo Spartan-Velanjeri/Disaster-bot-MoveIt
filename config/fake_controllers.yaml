@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_quad_arm_controller
+    joints:
+      - rev1
+      - rev2
+  - name: fake_arm_controller
+    joints:
+      - rev3
